@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: brown;
+    color:green;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+#outer{
+    font-size: small;
+    color: black;
+}
+
+#inner{
+    color: yellow;
+    font-size: x-large;
+}

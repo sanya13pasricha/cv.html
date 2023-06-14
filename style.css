@@ -1,0 +1,36 @@
+*{
+    color: blue;
+}
+
+H1{
+    color: #db921d;
+}
+h2{
+    color: #c72e7f;
+}
+
+#HeadingAnonymous{
+    color: aquamarine;
+}
+
+.Sameclass{
+    color: navy;
+}
+#colormagenta{
+    color: rgb(227, 251, 8);
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    background-color: chocolate;
+    color:white;
+}
+
+#SRK{
+    color: white;
+    background-color:blue
+ }
+ 
